@@ -32,5 +32,5 @@
   <td>New Born Child</td>
   </tr>
 </table>
-<img src="" alt="Free V Bucks">
+<img src="https://github.com/Linson132/Computadora/blob/master/af5ec12b1a96848d9e99487e1c18ad9e.jpg" alt="">
 
