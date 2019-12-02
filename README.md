@@ -2,7 +2,7 @@
 <img src="https://github.com/Linson132/Computadora/blob/master/af5ec12b1a96848d9e99487e1c18ad9e.jpg" alt="">
 <table style="width:100%">
   <tr>
-    <th>Amount</th>
+    <th>V-Bucks</th>
     <th>Price</th>
   
   </tr>
