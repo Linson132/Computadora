@@ -6,13 +6,13 @@
   
   </tr>
   <tr>
-    <td>Seven</td>
-    <td>Smith</td>
+    <td>6</td>
+    <td>$20</td>
    
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
+    <td>9</td>
+    <td>$22</td>
     
   </tr>
 </table>
