@@ -8,11 +8,16 @@
   <tr>
     <td>6</td>
     <td>$20</td>
+  
    
   </tr>
   <tr>
     <td>9</td>
     <td>$22</td>
     
+  </tr>
+  <tr>
+  <td>100</td>
+  <td>$50</td>
   </tr>
 </table>
