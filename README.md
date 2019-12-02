@@ -20,4 +20,11 @@
   <td>100</td>
   <td>$50</td>
   </tr>
+  <tr>
+  <td>250</td>
+  <td>$100</td>
+  <tr>
+    <td>500</td>
+    <td>$200</td>
+    </tr>
 </table>
