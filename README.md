@@ -6,7 +6,7 @@
   
   </tr>
   <tr>
-    <td>Jill</td>
+    <td>Seven</td>
     <td>Smith</td>
    
   </tr>
