@@ -27,4 +27,8 @@
     <td>500</td>
     <td>$200</td>
     </tr>
+    <tr>
+  <td>1k</td>
+  <td>New Born Child</td>
+  </tr>
 </table>
