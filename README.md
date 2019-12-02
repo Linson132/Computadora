@@ -1,4 +1,4 @@
-<h1> Free V-Bucks </h1>
+<h1> Free V-Bucks  </h1>
 <img src="https://github.com/Linson132/Computadora/blob/master/af5ec12b1a96848d9e99487e1c18ad9e.jpg" alt="">
 <table style="width:100%">
   <tr>
@@ -30,7 +30,7 @@
     </tr>
     <tr>
   <td>1k</td>
-  <td>New Born Child</td>
+  <td>First Born Child</td>
   </tr>
 </table>
 
