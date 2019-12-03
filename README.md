@@ -8,31 +8,29 @@
   </tr>
   <tr>
     <td>6</td>
-    <td>$20</td>
+    <td>Three Pennies and A Wet Sock</td>
   
    
   </tr>
   <tr>
     <td>9</td>
-    <td>$22</td>
+    <td>Two Wet Socks</td>
     
   </tr>
   <tr>
   <td>100</td>
-  <td>$50</td>
+  <td>Eight and Three Quarters Nickels</td>
   </tr>
   <tr>
   <td>250</td>
-  <td>$100</td>
+  <td>Four Origami Cranes Made Out Of One Dollar Bills</td>
   <tr>
     <td>500</td>
-    <td>$200</td>
+    <td>Two Five Dollar Fill-Ups KFC</td>
     </tr>
     <tr>
-  <td>1k</td>
+  <td>1,000</td>
   <td>First Born Child</td>
   </tr>
 </table>
 <h1>Another Great Deal!</h1>
-
-
