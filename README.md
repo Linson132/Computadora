@@ -37,5 +37,5 @@
 
 </body>
 </html>
-<img src="https://github.com/Linson132/Computadora/blob/master/af5ec12b1a96848d9e99487e1c18ad9e.jpg" alt="">
+<img src="https://www.google.com/search?q=v+bucks&safe=strict&rlz=1C1GCEA_enUS865US865&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiYrc_Q757mAhVQRK0KHSRTCqUQ_AUoAXoECA0QAw&biw=1920&bih=969#imgrc=bmXabJFi2VP9OM" alt="">
 <imh style="width:100%>
