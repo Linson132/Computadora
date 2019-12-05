@@ -36,6 +36,7 @@
 </div>
 
 </body>
-</html>
 <img src="https://www.google.com/search?q=v+bucks&safe=strict&rlz=1C1GCEA_enUS865US865&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiYrc_Q757mAhVQRK0KHSRTCqUQ_AUoAXoECA0QAw&biw=1920&bih=969#imgrc=bmXabJFi2VP9OM" alt="">
-<imh style="width:100%>
+<img style="width:100%>
+</html>
+
