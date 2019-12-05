@@ -38,5 +38,6 @@
 </body>
 <img src="https://www.google.com/search?q=v+bucks&safe=strict&rlz=1C1GCEA_enUS865US865&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiYrc_Q757mAhVQRK0KHSRTCqUQ_AUoAXoECA0QAw&biw=1920&bih=969#imgrc=bmXabJFi2VP9OM" alt="">
 <img style="width:100%>
+            <a href="https://linson132.github.io/Blob/">Visit our Side Hustle</a>
 </html>
 
